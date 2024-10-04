@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e90bc8def7927dd478b58ebd930659d5, type: 3}
+  m_Name: CubeData
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: RedCube
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 6823409142025842451, guid: 407493678893db045bb675b686c2e592,
+      type: 3}
+  - <Name>k__BackingField: 
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 0, y: 0}
+    <Prefab>k__BackingField: {fileID: 0}
+  - <Name>k__BackingField: BlueCube
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 9074478787285120220, guid: fcb8195ebab3d1045b3b9e1e17e05637,
+      type: 3}
+  - <Name>k__BackingField: YellowCube
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 6519473906593369699, guid: 0c5d34ea419e12540a3bcef41d3635ad,
+      type: 3}
+  - <Name>k__BackingField: GreenCube
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 5697060218826939776, guid: 33a21b3aa0a8b67469519f8c566c5a52,
+      type: 3}
+  - <Name>k__BackingField: PurpleCube
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 5471631846073128887, guid: 94e426816043da7448bdb6f9bc926b79,
+      type: 3}
+  - <Name>k__BackingField: PurpleCube
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 4, y: 4}
+    <Prefab>k__BackingField: {fileID: 5471631846073128887, guid: 94e426816043da7448bdb6f9bc926b79,
+      type: 3}
